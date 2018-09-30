@@ -1,0 +1,4 @@
+Looking at latest Tweets, following are observations - 
+1. Most of the tweets across news sources are categorized towards negative score.
+2. BBC News is the only media source to potray tweets with positivity. All other 4 have heavily negative tweets. CBS News is most negative.
+3. Fox News and CNN are negative but close to neutral.
